@@ -1,12 +1,13 @@
-# abstract-finder
+# Abstract Finder
 Python project to find abstracts and publications based on common keywords in prominent online databases.
 
 ## Databases and Search Engines
-### In development:
+### Usable
 - Scopus
-### To be developed:
-- IEEE Xplore
 - Science Direct
+### In development:
+- IEEE Xplore
+### To be developed:
 - Springer Link
 - Web of Science
 - Google Scholar
